@@ -1,0 +1,42 @@
+.vehicle{
+ display: flex;
+margin:150px;
+border:1px solid gray;
+border-radius:8px ;
+width:60%;
+height:400px;
+color: white;
+}
+
+.first{
+ padding:40px;
+ background-color:orange ;
+
+}
+
+.second {
+ background-color: rgb(39, 106, 106);
+ padding: 30px;
+
+}
+
+.third {
+ background-color:rgb(1, 11, 11);
+ padding: 40px;
+
+}
+
+.fa-solid{
+ color: crimson;
+}
+
+button{
+ width:100px;
+ padding:10px;
+ margin: 5px;
+ border-radius:10px;
+ border:none;
+cursor: pointer;
+}
+
+
